@@ -9,7 +9,7 @@
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/priya-pandey-840561280/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Priya%20Pandey-darkgreen?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Priya%20Pandey-pink?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
