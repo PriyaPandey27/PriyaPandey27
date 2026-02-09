@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  Hello! 🌟 , I'm <span style="color:#00ffe0;">Priya Pandey</span>
+   Hi there! 👋, I'm <span style="color:#00ffe0;">Priya Pandey</span>
 </h1>
 
 <h3 align="center">
