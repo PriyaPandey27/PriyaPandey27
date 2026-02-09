@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | AI/ML Enthusiast | 
+  | Full-Stack Developer | Exploring the edges of AI & ML | Building ideas into reality |
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/priya-pandey-840561280/" target="_blank">
@@ -18,24 +18,22 @@
 
 ## 🔥 About Me
 
-- 💡 Passionate about **AI**, **Automation**, and **Web3**
-- 💻 Tech Explorer | Pythonista | Frontend + Backend Dev
+💡 Exploring the future with AI, Automation, and Web3
+💻 Tech Explorer | Pythonista | End-to-End Developer
 
 ---
 
 ## 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css,react,nextjs,nodejs,mongodb,mysql,postgres,git,github,vscode,figma,django,docker,tensorflow,linux,tailwind&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,html,css,react,nextjs,nodejs,mongodb,mysql,postgres,git,github,vscode,figma,django,tensorflow,linux,tailwind&theme=dark"/>
 </p>
 
 ---
 
-### 💬 Quote & Joke
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
-  <br/>
-  <img src="https://readme-jokes.vercel.app/api?theme=dark" />
+  😂 I don’t always write bugs in my code… but when I do, I call them “unexpected features.”
 </p>
+
 
 
 
