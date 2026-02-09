@@ -16,7 +16,7 @@
 
 ---
 
-## 🔥 About Me
+## 🔥 My profile
 
 💡 Exploring the future with AI, Automation, and Web3
 💻 Tech Explorer | Pythonista | End-to-End Developer
