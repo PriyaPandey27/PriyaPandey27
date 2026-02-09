@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  😂 I don’t always write bugs in my code… but when I do, I call them “unexpected features.”
+  I don’t always write bugs in my code… but when I do, I call them “unexpected features.”
 </p>
 
 
