@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  | Full-Stack Developer | Exploring the edges of AI & ML | Building ideas into reality |
+   Full-Stack Developer | Exploring the edges of AI & ML | Building ideas into reality 
 </h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/priya-pandey-840561280/" target="_blank">
